@@ -17,7 +17,7 @@ ___
 ### Анализ онлайн-кинотеатра
 
 - *MovieLens summary.docx*: Описание проекта, путь дальнейшего развития онлайн-кинотеатра
-- *MovieLens database.xlsx*: Исходные данные (4 листа); визуализации есть в исходнике - https://docs.google.com/spreadsheets/d/18R0C6MZkPH7Atb_qgNid0RCDY43Xsn13rk8RdXbaF3M/edit#gid=763869824
+- *MovieLens database.xlsx*: Исходные данные (4 листа); визуализации есть [в исходнике](https://docs.google.com/spreadsheets/d/18R0C6MZkPH7Atb_qgNid0RCDY43Xsn13rk8RdXbaF3M/edit#gid=763869824)
 - *MovieLens models and views.ipynb*: Несколько визуализаций и прогнозов в Pandas
 
 ### Python-обработка файлов
