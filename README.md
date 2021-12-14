@@ -24,3 +24,8 @@ ___
 
 - *purchase_log.txt* и *visit_log.csv*: Исходные данные о покупках и просмотрах сайта
 - *working with files.ipynb*: Загрузка *purchase_log* в оперативную память; обработка *visit_log* без полной загрузки в оперативную память; генерация *funnel.csv*, включающего в себя данные из обоих файлов
+
+### Статистическин калькуляторы для игры League of Legends
+
+- [*Keystone Math*](https://docs.google.com/spreadsheets/d/1SIwK1dMzKblgJklsnM42VBmQALnpnEmvCvGczKfEJxI/edit?usp=sharing): калькулятор, позволяющий сравнить эффективность ключевых рун при задаваемых условиях
+- [*Magic Penetration Ballparker*](https://docs.google.com/spreadsheets/d/1HzGZZB_tMLe0AcMU3P8clhVs77Omy9tCZkK-TTFnVrE/edit?usp=sharing): калькулятор, созданный специально для магов, позволяющий рассчитать точный урон и его разницу в разнообразных ситуациях
