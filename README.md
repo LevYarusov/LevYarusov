@@ -1,5 +1,6 @@
 ### Лев Ярусов
-##### Аналитик данных
+
+Привет! Я Лев, в прошлом будущий программист (React), но больше люблю разбираться в стратегии, задачах и болях бизнеса. После работы со Сбербанком (проект для самозанятых "Свое дело") увлекся аналитикой данных, прошел годовой курс по Big Data. Вот что я умею:
 
 [![Website](https://img.shields.io/badge/SQL-000000.svg?&style=for-the-badge)](https://www.w3schools.com/sql/)
 [![Website](https://img.shields.io/badge/-MySQL-007D7D.svg?&style=for-the-badge&logo=mysql&logoColor=E97100)](https://mysql.com)
