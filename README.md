@@ -30,3 +30,7 @@ ___
 
 - [*Keystone Math*](https://docs.google.com/spreadsheets/d/1SIwK1dMzKblgJklsnM42VBmQALnpnEmvCvGczKfEJxI/edit?usp=sharing): калькулятор, позволяющий сравнить эффективность ключевых рун при задаваемых условиях
 - [*Magic Penetration Ballparker*](https://docs.google.com/spreadsheets/d/1HzGZZB_tMLe0AcMU3P8clhVs77Omy9tCZkK-TTFnVrE/edit?usp=sharing): калькулятор, созданный специально для магов, позволяющий рассчитать точный урон и его разницу в разнообразных ситуациях
+
+### Практика по статистике (Colab/Pandas/NumPy/MatPlotLib)
+
+- [*Video Game Market Visualisations*](https://colab.research.google.com/drive/1Pv2cB4cOoZEz-HN_GNzAUWCKUGhgzLg7): графики и визуализации, позволяющие оценить различные аспекты рынка видеоигр
